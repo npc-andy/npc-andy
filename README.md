@@ -1,4 +1,4 @@
-<h1>Sobre mim!</h1>
+<i><h1>Sobre mim!</h1></i>
 
 ⭐ Graduando Análise e Desenvolvimento de Sistemas. (SENAC SP)! 🤩 <br>
 ⭐ Apaixonado por Games, Animes e Drwaings (Desenhar Chibis) ❤️ <br>
