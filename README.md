@@ -1,8 +1,42 @@
-# Perfil em Construção 
-
-
-
+# Perfil em Construção
 <!--
+# Anderson Alcântara | Andy
+
+Graduado em Análise e Desenvolvimento de Sistemas </br>
+Desenvolvedor Web (Iniciante) </br>
+
+## Objetivos
+
+&nbsp;&nbsp;&nbsp;&nbsp; Olá, me chamo Anderson. Meu objetivo atual, é ser desenvolvedor fullstack em Desenvolvimento Web. </br> 
+Minhas tecnologias escolhidas são: HTML, CSS, JavaScript, Node.js e MySQL.</br></br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Após dominar bem essas tecnologias, meus planos são de migrar pra TypeScript, Tailwind CSS e Java. (Java ou Phyton).
+
+
+<br><br><br><br>
+
+---
+***
+___
+
+> testanto hihihihi
+
+  <html>
+    <h1>Oie</h1>
+  </html>
+
+``Use `code` here``
+
+&nbsp;&nbsp;&nbsp;&nbsp;Testando parágrafo
+
+## Contato
+- [LinkedIn]()
+- E-Mail
+- WhatsApp
+
+
+
+
 ## teste
 ### teste
 teste
